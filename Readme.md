@@ -5,8 +5,10 @@
 
 ## Installation
 
+  Install with [clib](https://github.com/clibs/clib):
+
 ```
-$ cpm install visionmedia/int.c
+$ clib install clibs/int
 ```
 
 ## API

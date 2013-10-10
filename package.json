@@ -1,7 +1,7 @@
 {
   "name": "int",
   "version": "0.0.1",
-  "repo": "visionmedia/buffer.c",
+  "repo": "clibs/int",
   "description": "Higher level C-string utilities",
   "keywords": ["buf", "buffer", "int", "integer", "util", "utils"],
   "license": "MIT",
